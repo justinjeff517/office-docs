@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.navbar {
+  background-color: #ee6c6c; /* Red background */
+}
+
+.navbar__link {
+  color: white; /* Ensure links are visible */
+}
+
+.navbar__link:hover {
+  color: #FFD700; /* Optional: Gold on hover */
+}

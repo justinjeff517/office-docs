@@ -1,0 +1,8 @@
+{
+  "label": "[5] Purchases",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "All Purchases"
+  }
+}
